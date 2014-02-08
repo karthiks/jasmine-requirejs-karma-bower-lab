@@ -1,0 +1,23 @@
+{
+  "name": "int-seq-kata-js",
+  "version": "0.0.1",
+  "authors": [
+    "Karthik Sirasanagandla <sirkarthik@gmail.com>"
+  ],
+  "description": "Code Kata to process a integer sequence to determine some stats",
+  "keywords": [
+    "javascript",
+    "bower",
+    "jasmine"
+  ],
+  "license": "MIT",
+  "homepage": "http://pauloortins.com/code-kata-javascript-jasmine/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
